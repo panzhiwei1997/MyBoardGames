@@ -3,7 +3,8 @@
   * ### 照片
     * [盒子照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS1.jpg)
     * [内件照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS2.jpg)
-    * ![游玩照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS3.jpeg/){:height="10px" width="40px"}
+    * ![游玩照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS3.jpeg/)
+    <img width="150" height="150" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS3.jpeg/"/>
     
   * ### 简介
     * #### 类型：德策
