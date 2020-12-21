@@ -34,8 +34,7 @@
 * ## 璀璨宝石漫威版
   * ### 照片
     * [盒子照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS_MW2.jpeg)
-    * ![内件照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS_MW1.jpeg)
-     * <img width="700" height="500" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS_MW1.jpeg"/>
+     * <img width="600" height="800" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS_MW1.jpeg"/>
 
     
   * ### 简介
