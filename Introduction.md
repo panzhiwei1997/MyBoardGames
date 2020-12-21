@@ -18,8 +18,9 @@
   * ### 个人评价：这是我真正意义上的启蒙桌游，也是我玩过最多次数的桌游。由于其不错的颜值，易上手的特点，个人认为它是最适合推荐新手玩的入门级策略桌游。
 
   * ### 照片
-    * [盒子照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS1.jpg)
-    * [内件照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS2.jpg)
+    * [盒子照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS1.jpg)
+    * [内件照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS2.jpg)
+    * ![游玩照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS3.jpeg)
 
 # 名词解释
 * 引擎构筑：一开始的装备、道具、手牌比较弱，通过积攒资源获取更强大或者更适合自己的装备、道具、手牌，让自己的“刷钱引擎”能实现很多combo，疯狂滚雪球获得胜利。
