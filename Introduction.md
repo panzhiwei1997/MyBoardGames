@@ -39,7 +39,7 @@
 
   * ## 璀璨宝石漫威版
     * ### 照片
-      * [盒子照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS_MW2.jpeg)
+      * <img width="300" height="400" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS_MW2.jpeg"/>
       * <img width="300" height="400" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS_MW1.jpeg"/>
 
     
@@ -68,8 +68,7 @@
 * # 毛线
   * ## 千菌百链
     * ### 照片
-      * [盒子照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/QJBL/QJBL1.jpeg)
-      * [内件照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/QJBL/QJBL2.jpeg)
+      * <img width="500" height="300" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/QJBL/QJBL1.jpeg"/>
       * <img width="500" height="300" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/QJBL/QJBL2.jpeg"/>
     
     * ### 简介
