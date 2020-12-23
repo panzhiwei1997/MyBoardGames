@@ -10,7 +10,7 @@
 * # 德式
   * ## 璀璨宝石
     * ### 照片
-      * <img width="300" height="500" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS1.jpg/"/>
+      * <img width="300" height="400" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS1.jpg/"/>
       * <img width="500" height="300" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS2.jpg/"/>
       * <img width="500" height="300" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS3.jpeg/"/>
     
