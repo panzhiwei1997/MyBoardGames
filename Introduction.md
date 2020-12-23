@@ -12,7 +12,7 @@
     * ### 照片
       * [盒子照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS1.jpg)
       * [内件照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS2.jpg)
-      * <img width="700" height="500" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS3.jpeg/"/>
+      * <img width="500" height="300" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS3.jpeg/"/>
     
     * ### 简介
       * #### 类型：德策
@@ -41,7 +41,7 @@
   * ## 璀璨宝石漫威版
     * ### 照片
       * [盒子照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS_MW2.jpeg)
-      * <img width="600" height="800" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS_MW1.jpeg"/>
+      * <img width="300" height="400" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS_MW1.jpeg"/>
 
     
     * ### 简介
@@ -69,13 +69,13 @@
 * # 毛线
   * ## 千菌百链
     * ### 照片
-      * [盒子照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS1.jpg)
-      * [内件照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS2.jpg)
-      * <img width="700" height="500" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/CCBS/CCBS3.jpeg/"/>
+      * [盒子照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/QJBL/QJBL1.jpeg)
+      * [内件照片](https://github.com/panzhiwei1997/MyBoardGames/blob/main/QJBL/QJBL2.jpeg)
+      * <img width="500" height="300" src="https://github.com/panzhiwei1997/MyBoardGames/blob/main/QJBL/QJBL2.jpeg"/>
     
     * ### 简介
       * #### 类型：毛线
-      * #### 主题：扮演一个宝石商人，利用宝石购买更多的矿场，从而获得更多的宝石，最终矿场价值最高的人获胜。
+      * #### 主题：收集细菌、真菌、病毒等基因，创建最强大的基因链。
       * #### 机制：卡牌选取 手牌管理 成套收集
       * #### 人数：1-6
       * #### 时长： 5min/人
